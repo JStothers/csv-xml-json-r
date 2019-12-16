@@ -1,0 +1,34 @@
+{
+    "records": [
+        {
+            "patient": {
+                "dob": "9/1/75",
+                "firstName": "Jonathan",
+                "icd9_1": "414.01",
+                "icd9_2": "508.2",
+                "lastName": "Beyers",
+                "mrn": "1111"
+            }
+        },
+        {
+            "patient": {
+                "dob": "8/5/70",
+                "firstName": "Melissa",
+                "icd9_1": "508.0",
+                "icd9_2": "485",
+                "lastName": "Johnston",
+                "mrn": "2222"
+            }
+        },
+        {
+            "patient": {
+                "dob": "",
+                "firstName": "Melissa",
+                "icd9_1": "508.0",
+                "icd9_2": "485",
+                "lastName": "Johnston",
+                "mrn": "3333"
+            }
+        }
+    ]
+}
